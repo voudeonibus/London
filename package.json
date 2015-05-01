@@ -1,0 +1,31 @@
+{
+  "name": "london",
+  "version": "1.0.0-alpha",
+  "description": "maps all URL's for Hapi",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "npm test",
+    "test": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voudeonibus/London.git"
+  },
+  "keywords": [
+    "routes",
+    "hapi",
+    "maps"
+  ],
+  "author": "Carlos Alexandre Fuechter <alexandref93@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/voudeonibus/London/issues"
+  },
+  "homepage": "https://github.com/voudeonibus/London#readme",
+  "peerDependencies": {
+    "eslint": "^0.20.0"
+  },
+  "dependencies": {
+    "ip": "^0.3.2"
+  }
+}
