@@ -8,7 +8,7 @@
 ![download npm month](https://img.shields.io/npm/dm/london.svg)
 ![license](https://img.shields.io/npm/l/london.svg)
 
-London is a module for maps all URL's for Hapi.
+London is a module for map all URL's for Hapi.
 
 ## Table of contents
 
